@@ -199,16 +199,16 @@ Hacemos un segungo banner
 }
 @keyframes banner2{
     0%, 20%{
-        background-image: url(../InternetSegura/Imagenes/Banner01.jpeg);
+        background-image: url(../Imagenes/Banner01.jpeg);
     }
     25%, 45%{
-        background-image: url(../InternetSegura/Imagenes/Banner02.jpg);
+        background-image: url(../Imagenes/Banner02.jpg);
     }
     50%, 70%{
-        background-image: url(../InternetSegura/Imagenes/Banner03.jpg);
+        background-image: url(../Imagenes/Banner03.jpg);
     }
     75%, 100%{
-        background-image: url(../InternetSegura/Imagenes/Banner04.jpg);
+        background-image: url(../Imagenes/Banner04.jpg);
     }
 }
 .capa{
@@ -363,7 +363,7 @@ el footer
 footer{
     width: 100%;
     padding: 50px 0px;
-    background-image: url(../InternetSegura/Imagenes/Footer-Background3.png);
+    background-image: url(../Imagenes/Footer-Background3.png);
     background-size: cover;
 
     position: relative;
